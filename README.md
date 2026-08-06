@@ -9,7 +9,7 @@ Guatemala | Remoto / Híbrido
 
 [![GitHub](https://img.shields.io/badge/GitHub-MariaJoseMontepequeZet-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MariaJoseMontepequeZet)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariamontepeque/)
-[![Email](https://img.shields.io/badge/Email-majozet8%40gmail.com-9C52E0?style=for-the-badge&logo=gmail&logoColor=white)](mailto:majozet8@gmail.com)
+[![Email](https://img.shields.io/badge/Email-mariamontepeque1303%40gmail.com-9C52E0?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariamontepeque1303@gmail.com)
 
 </div>
 
@@ -105,13 +105,6 @@ Sistema de gestión hotelera enfocado en lógica asíncrona de JavaScript.
 - **Normalización de bases de datos:** ejercicio de citas hospitalarias (1FN–3FN).
 - **Arquitectura:** visualización de una arquitectura de microservicios poliglota (TypeScript/NestJS, Go/Gin, Python/FastAPI) para el proyecto Quetxal TV.
 
-## Otros proyectos web
-
-- Tracker de álbum de estampas del Mundial 2026 (HTML de un solo archivo, 980 estampas, login y animaciones).
-- Landing page para Arepas Tech con integración de WhatsApp.
-- Ruleta de grupos interactiva para uso en clase (24 nombres, 59 tarjetas de actividad, animación en canvas).
-- Página temática de Star Wars con menú hamburguesa animado (sables de luz).
-
 ## Cómo trabajo
 
 - Analizo requerimientos antes de desarrollar y evito cambios estructurales no solicitados.
@@ -127,7 +120,10 @@ Sistema de gestión hotelera enfocado en lógica asíncrona de JavaScript.
   <img height="165" src="https://github-readme-stats-maria-montepequ.vercel.app/api/top-langs/?username=MariaJoseMontepequeZet&layout=compact&theme=vue-dark&hide_border=true" alt="Top languages" />
 </div>
 
+## 📫 Contáctame
+
 <p align="left">
-<a href="https://github.com/MariaJoseMontepequeZet" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/mariamontepeque/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:mariamontepeque1303@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-mariamontepeque1303%40gmail.com-9C52E0?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/mariamontepeque/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Perfil-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/Discord-majo__13__gt-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 </p>
