@@ -53,9 +53,13 @@ Estudiante de Ingeniería en Sistemas en formación como desarrolladora full sta
 
 ### Sistema Experto — Diagnóstico de PC
 
+<hr>
+
 Sistema experto en Python puro (sin librerías externas) con diagnóstico múltiple, backward chaining y exportación a grafo JSON.
 
 **Stack:** Python
+
+<hr>
 
 [Ver proyecto →](https://github.com/MariaJoseMontepequeZet/-Sistema_Experto_MontepequeMaria)
 
@@ -64,9 +68,13 @@ Sistema experto en Python puro (sin librerías externas) con diagnóstico múlti
 
 ### EduTrack
 
+<hr>
+
 Panel de gestión educativa.
 
 **Stack:** JavaScript, HTML, CSS
+
+<hr>
 
 [Ver proyecto →](https://github.com/MariaJoseMontepequeZet/EduTrack_MontepequeMariaZetJose)
 
@@ -75,9 +83,13 @@ Panel de gestión educativa.
 
 ### Gestión de Hotel
 
+<hr>
+
 Sistema de gestión hotelera enfocado en lógica asíncrona de JavaScript.
 
 **Stack:** JavaScript
+
+<hr>
 
 [Ver proyecto →](https://github.com/MariaJoseMontepequeZet/Gesti-n_hotel)
 
@@ -93,6 +105,13 @@ Sistema de gestión hotelera enfocado en lógica asíncrona de JavaScript.
 - **Normalización de bases de datos:** ejercicio de citas hospitalarias (1FN–3FN).
 - **Arquitectura:** visualización de una arquitectura de microservicios poliglota (TypeScript/NestJS, Go/Gin, Python/FastAPI) para el proyecto Quetxal TV.
 
+## Otros proyectos web
+
+- Tracker de álbum de estampas del Mundial 2026 (HTML de un solo archivo, 980 estampas, login y animaciones).
+- Landing page para Arepas Tech con integración de WhatsApp.
+- Ruleta de grupos interactiva para uso en clase (24 nombres, 59 tarjetas de actividad, animación en canvas).
+- Página temática de Star Wars con menú hamburguesa animado (sables de luz).
+
 ## Cómo trabajo
 
 - Analizo requerimientos antes de desarrollar y evito cambios estructurales no solicitados.
@@ -104,8 +123,8 @@ Sistema de gestión hotelera enfocado en lógica asíncrona de JavaScript.
 ---
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MariaJoseMontepequeZet&show_icons=true&theme=vue-dark&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaJoseMontepequeZet&layout=compact&theme=vue-dark&hide_border=true" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats-maria-montepequ.vercel.app/api?username=MariaJoseMontepequeZet&show_icons=true&theme=vue-dark&hide_border=true&rank_icon=github" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats-maria-montepequ.vercel.app/api/top-langs/?username=MariaJoseMontepequeZet&layout=compact&theme=vue-dark&hide_border=true" alt="Top languages" />
 </div>
 
 <p align="left">
