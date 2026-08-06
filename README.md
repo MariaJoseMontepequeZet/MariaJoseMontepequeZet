@@ -81,7 +81,7 @@ Panel de gestión educativa.
 </td>
 <td width="33%" valign="top">
 
-### Gestión de Hotel
+### Gestion de Hotel
 
 <hr>
 
