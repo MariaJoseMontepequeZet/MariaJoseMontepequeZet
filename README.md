@@ -1,111 +1,141 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:6D28D9,50:9C52E0,110:22c55e&text=María%20José%20Montepeque&fontColor=ffffff&fontSize=32&desc=Estudiante%20de%20Ingeniería%20en%20Sistemas%20%7C%20Full%20Stack%20%2B%20Ciberseguridad&descSize=15&fontAlignY=38&descAlignY=58" alt="María José Montepeque" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:6D28D9,50:9C52E0,110:22c55e&text=María%20José%20Montepeque&fontColor=ffffff&fontSize=32&desc=Full%20Stack%20Developer%20Junior%20%7C%20SOC%20%2F%20Ciberseguridad&descSize=15&fontAlignY=38&descAlignY=58" alt="María José Montepeque" width="100%" />
 </div>
 
 <div align="center">
 
-**Full Stack Developer Junior · SOC / Ciberseguridad**
-Guatemala | Remoto / Híbrido
+Estudiante de Ingeniería en Sistemas · Guatemala 🇬🇹 · Remoto / Híbrido
 
 [![GitHub](https://img.shields.io/badge/GitHub-MariaJoseMontepequeZet-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MariaJoseMontepequeZet)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariamontepeque/)
-[![Email](https://img.shields.io/badge/Email-mariamontepeque1303%40gmail.com-9C52E0?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariamontepeque1303@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mariamontepeque-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariamontepeque/)
+[![Email](https://img.shields.io/badge/Email-Contacto-9C52E0?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariamontepeque1303@gmail.com)
+[![Portafolio](https://img.shields.io/badge/Portafolio-Ver%20sitio-22c55e?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mariajosemontepequezet.github.io/Portafolio/)
+
+![Open to work](https://img.shields.io/badge/Open%20to%20work-Sí-22c55e?style=flat-square)
+![Visitas](https://komarev.com/ghpvc/?username=MariaJoseMontepequeZet&color=9C52E0&style=flat-square&label=Visitas)
 
 </div>
 
-## Sobre mí
+## 👩‍💻 Sobre mí
 
 Estudiante de Ingeniería en Sistemas en formación como desarrolladora full stack, con un enfoque particular en la intersección entre **desarrollo de software** y **seguridad digital**. Combino la construcción de aplicaciones web funcionales con una mentalidad de protección de datos y análisis de amenazas.
 
-- **Ciberseguridad:** Certificada en SOC (Security Operations Center) — monitoreo y respuesta a incidentes.
-- **IA & Python:** Certificada en desarrollo de soluciones con Python e Inteligencia Artificial.
-- **Desarrollo Web:** Frontend, backend, bases de datos SQL/NoSQL y automatización de flujos.
-- **Fuera del código:** lectora entusiasta y aficionada a las manualidades — actividades que alimentan mi atención al detalle y creatividad al desarrollar.
+- 🎓 **Formación:** Ingeniería en Sistemas — ![En curso](https://img.shields.io/badge/en%20curso-22c55e?style=flat-square)
+- 🚀 **Bootcamp:** Desarrolladora Full Stack en **Campuslands Guatemala** — ![En curso](https://img.shields.io/badge/en%20curso-22c55e?style=flat-square)
+- 🔭 **Actualmente:** colaborando en un proyecto con la **Organización Mundial de la Salud (OMS)** — ![En curso](https://img.shields.io/badge/en%20curso-22c55e?style=flat-square) <!-- TODO: una línea sobre qué hace el proyecto y tu rol -->
+- 🛡️ **Ciberseguridad:** Certificada en SOC (Security Operations Center) por IRSI · SISAP — monitoreo y respuesta a incidentes.
+- 🤖 **IA & Python:** Certificada por Samsung en desarrollo de soluciones con Python e Inteligencia Artificial.
+- 🌐 **Desarrollo Web:** Frontend, backend, bases de datos SQL/NoSQL y automatización de flujos.
+- 📚 **Fuera del código:** lectora entusiasta y aficionada a las manualidades — actividades que alimentan mi atención al detalle y creatividad al desarrollar.
 
-## Stack técnico
+## 🧰 Stack técnico
 
-<div align="left">
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-<img src="https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
-<img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-<img src="https://img.shields.io/badge/WSL2-4D4D4D?style=for-the-badge&logo=linux&logoColor=white" />
-<img src="https://img.shields.io/badge/SOC_Specialist-00599C?style=for-the-badge&logo=fortinet&logoColor=white" />
-<img src="https://img.shields.io/badge/AI_Python_Certified-FF6F00?style=for-the-badge&logo=googlecloud&logoColor=white" />
-</div>
+**Lenguajes**
 
-## Proyectos destacados
+<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white" />
 
-<table border="1" cellpadding="15" cellspacing="0" width="100%">
+**Backend & Bases de datos**
+
+<img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+
+**Herramientas & DevOps**
+
+<img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /> <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" /> <img src="https://img.shields.io/badge/WSL2-4D4D4D?style=for-the-badge&logo=linux&logoColor=white" />
+
+## 🎓 Certificaciones
+
+| Certificación | Institución | Área | Enfoque |
+|---|---|---|---|
+| 🛡️ **SOC Specialist** | IRSI · SISAP | Ciberseguridad | Monitoreo de seguridad, detección y respuesta a incidentes |
+| 🤖 **Python & AI Development** | Samsung Innovation Campus | Inteligencia Artificial | Desarrollo de soluciones con Python e IA |
+
+## 🚀 Proyectos destacados
+
+<table width="100%">
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-### Sistema Experto — Diagnóstico de PC
+### 🧠 Sistema Experto — Diagnóstico de PC
 
-<hr>
+Sistema experto en Python puro, sin librerías externas. Implementa diagnóstico múltiple, encadenamiento hacia atrás (*backward chaining*) y exportación de la base de conocimiento a grafo JSON.
 
-Sistema experto en Python puro (sin librerías externas) con diagnóstico múltiple, backward chaining y exportación a grafo JSON.
+<img src="https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" /> <img src="https://img.shields.io/badge/-IA-FF6F00?style=flat-square" />
 
-**Stack:** Python
-
-<hr>
-
-[Ver proyecto →](https://github.com/MariaJoseMontepequeZet/-Sistema_Experto_MontepequeMaria)
+[📂 Repositorio](https://github.com/MariaJoseMontepequeZet/Sistema_Experto_MontepequeMaria)
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-### EduTrack
+### 📊 EduTrack
 
-<hr>
+Panel de gestión educativa para registrar estudiantes, cursos y calificaciones. Interfaz responsiva construida con JavaScript vanilla, manipulación del DOM y persistencia en el navegador.
 
-Panel de gestión educativa.
+<img src="https://img.shields.io/badge/-JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
 
-**Stack:** JavaScript, HTML, CSS
-
-<hr>
-
-[Ver proyecto →](https://github.com/MariaJoseMontepequeZet/EduTrack_MontepequeMariaZetJose)
+[📂 Repositorio](https://github.com/MariaJoseMontepequeZet/EduTrack_MontepequeMariaZetJose) · [🌐 Demo](https://mariajosemontepequezet.github.io/EduTrack_MontepequeMariaZetJose/)
 
 </td>
-<td width="33%" valign="top">
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### Gestion de Hotel
+### 🏨 Gestión de Hotel
 
-<hr>
+Sistema de gestión hotelera enfocado en la lógica asíncrona de JavaScript: reservas, disponibilidad de habitaciones y flujos con promesas y `async/await` para simular operaciones de servidor.
 
-Sistema de gestión hotelera enfocado en lógica asíncrona de JavaScript.
+<img src="https://img.shields.io/badge/-JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 
-**Stack:** JavaScript
+[📂 Repositorio](https://github.com/MariaJoseMontepequeZet/Gestion_hotel)
 
-<hr>
+</td>
+<td width="50%" valign="top">
 
-[Ver proyecto →](https://github.com/MariaJoseMontepequeZet/Gesti-n_hotel)
+### 💼 Portafolio personal
+
+Sitio web personal publicado en GitHub Pages que reúne mi perfil profesional, proyectos y formas de contacto. Diseño propio con HTML y CSS, adaptado a dispositivos móviles.
+
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/-GitHub%20Pages-222?style=flat-square&logo=github&logoColor=white" />
+
+[📂 Repositorio](https://github.com/MariaJoseMontepequeZet/Portafolio) · [🌐 Demo](https://mariajosemontepequezet.github.io/Portafolio/)
 
 </td>
 </tr>
 </table>
 
-## Coursework y ejercicios técnicos
+## 📚 Coursework y ejercicios técnicos
 
-- **SQL:** CineMax (SQLite, 4 tablas, 10 consultas DQL, diagrama ER en Graphviz), Campus Shop (MySQL, DDL/DML/DQL).
+Ejercicios y proyectos realizados durante el bootcamp Full Stack de Campuslands:
+
+- **SQL:** CineMax (SQLite, 4 tablas, 10 consultas DQL, diagrama ER en Graphviz) y Campus Shop (MySQL, DDL/DML/DQL).
 - **NoSQL:** estudio de modelos Key-Value, Documento, Columna y Grafo con casos de uso y framework de decisión.
-- **JavaScript:** 15 ejercicios de fundamentos + proyecto de inventario de shooter táctico.
+- **JavaScript / TypeScript:** 15 ejercicios de fundamentos, debugging de APIs REST con Node.js y proyecto de inventario de shooter táctico.
 - **Normalización de bases de datos:** ejercicio de citas hospitalarias (1FN–3FN).
-- **Arquitectura:** visualización de una arquitectura de microservicios poliglota (TypeScript/NestJS, Go/Gin, Python/FastAPI) para el proyecto Quetxal TV.
+- **DevOps:** catálogo de stacks con Docker Compose y configuración local de n8n, PostgreSQL y Supabase.
+- **Arquitectura:** visualización de una arquitectura de microservicios políglota (TypeScript/NestJS, Go/Gin, Python/FastAPI) para el proyecto Quetxal TV.
 
-## Cómo trabajo
+## 📈 Actividad en GitHub
+
+<div align="center">
+<table>
+<tr>
+<td align="center">
+<img src="https://github-readme-stats-maria-montepequ.vercel.app/api?username=MariaJoseMontepequeZet&show_icons=true&hide_border=true&rank_icon=github&bg_color=0d1117&title_color=9C52E0&icon_color=22c55e&text_color=c9d1d9&locale=es" alt="Estadísticas de GitHub" />
+</td>
+<td align="center">
+<img src="https://github-readme-stats-maria-montepequ.vercel.app/api/top-langs/?username=MariaJoseMontepequeZet&layout=compact&hide_border=true&bg_color=0d1117&title_color=9C52E0&text_color=c9d1d9&langs_count=8&locale=es" alt="Lenguajes más usados" />
+</td>
+</tr>
+</table>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MariaJoseMontepequeZet&hide_border=true&background=0d1117&ring=9C52E0&fire=22c55e&currStreakLabel=9C52E0&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e&locale=es" alt="Racha de contribuciones" />
+
+<br/>
+
+<img src="https://ghchart.rshah.org/9C52E0/MariaJoseMontepequeZet" alt="Calendario de contribuciones" width="90%" />
+
+</div>
+
+## ⚙️ Cómo trabajo
 
 - Analizo requerimientos antes de desarrollar y evito cambios estructurales no solicitados.
 - Prefiero entregar código limpio, completo y bien organizado por archivo.
@@ -113,17 +143,16 @@ Sistema de gestión hotelera enfocado en lógica asíncrona de JavaScript.
 - Uso Git/GitHub con flujo basado en forks, ramas y commits descriptivos.
 - Valido y pruebo mis cambios antes de entregarlos.
 
----
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats-maria-montepequ.vercel.app/api?username=MariaJoseMontepequeZet&show_icons=true&theme=vue-dark&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats-maria-montepequ.vercel.app/api/top-langs/?username=MariaJoseMontepequeZet&layout=compact&theme=vue-dark&hide_border=true" alt="Top languages" />
-</div>
-
 ## 📫 Contáctame
 
-<p align="left">
-<a href="mailto:mariamontepeque1303@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-mariamontepeque1303%40gmail.com-9C52E0?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/mariamontepeque/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Perfil-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<img src="https://img.shields.io/badge/Discord-majo__13__gt-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-</p>
+<div align="center">
+
+[![Email](https://img.shields.io/badge/mariamontepeque1303%40gmail.com-9C52E0?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariamontepeque1303@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariamontepeque/)
+![Discord](https://img.shields.io/badge/majo__13__gt-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:22c55e,50:9C52E0,110:6D28D9&section=footer" alt="" width="100%" />
+</div>
