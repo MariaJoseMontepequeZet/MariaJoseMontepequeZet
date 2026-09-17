@@ -9,7 +9,7 @@ Estudiante de Ingeniería en Sistemas · Guatemala 🇬🇹 · Remoto / Híbrido
 [![GitHub](https://img.shields.io/badge/GitHub-MariaJoseMontepequeZet-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MariaJoseMontepequeZet)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mariamontepeque-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariamontepeque/)
 [![Email](https://img.shields.io/badge/Email-Contacto-9C52E0?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariamontepeque1303@gmail.com)
-[![Portafolio](https://img.shields.io/badge/Portafolio-Ver%20sitio-22c55e?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mariajosemontepequezet.github.io/Portafolio/)
+[![Portafolio](https://img.shields.io/badge/Portafolio-Ver%20sitio-22c55e?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mariajosemontepequezet.github.io/portafolio/)
 
 ![Open to work](https://img.shields.io/badge/Open%20to%20work-Sí-22c55e?style=flat-square)
 ![Visitas](https://komarev.com/ghpvc/?username=MariaJoseMontepequeZet&color=9C52E0&style=flat-square&label=Visitas)
