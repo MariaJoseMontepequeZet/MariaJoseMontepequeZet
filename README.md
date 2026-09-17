@@ -119,19 +119,19 @@ Ejercicios y proyectos realizados durante el bootcamp Full Stack de Campuslands:
 <table>
 <tr>
 <td align="center">
-<img src="https://github-readme-stats-maria-montepequ.vercel.app/api?username=MariaJoseMontepequeZet&show_icons=true&hide_border=true&rank_icon=github&bg_color=0d1117&title_color=9C52E0&icon_color=22c55e&text_color=c9d1d9&locale=es" alt="Estadísticas de GitHub" />
+<img src="https://github-readme-stats-maria-montepequ.vercel.app/api?username=MariaJoseMontepequeZet&show_icons=true&rank_icon=github&locale=es&hide_border=false&border_color=9C52E0&border_radius=12&bg_color=45,130b2e,1f0f47,0b1a2e&title_color=e879f9&icon_color=4ade80&text_color=f1e9ff&ring_color=4ade80" alt="Estadísticas de GitHub" />
 </td>
 <td align="center">
-<img src="https://github-readme-stats-maria-montepequ.vercel.app/api/top-langs/?username=MariaJoseMontepequeZet&layout=compact&hide_border=true&bg_color=0d1117&title_color=9C52E0&text_color=c9d1d9&langs_count=8&locale=es" alt="Lenguajes más usados" />
+<img src="https://github-readme-stats-maria-montepequ.vercel.app/api/top-langs/?username=MariaJoseMontepequeZet&layout=donut&langs_count=6&locale=es&hide_border=false&border_color=9C52E0&border_radius=12&bg_color=45,130b2e,1f0f47,0b1a2e&title_color=e879f9&text_color=f1e9ff" alt="Lenguajes más usados" />
 </td>
 </tr>
 </table>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MariaJoseMontepequeZet&hide_border=true&background=0d1117&ring=9C52E0&fire=22c55e&currStreakLabel=9C52E0&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e&locale=es" alt="Racha de contribuciones" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MariaJoseMontepequeZet&locale=es&hide_border=false&border=9C52E0&border_radius=12&background=45,130b2e,1f0f47,0b1a2e&ring=e879f9&fire=4ade80&currStreakLabel=e879f9&currStreakNum=ffffff&sideLabels=f1e9ff&sideNums=4ade80&dates=b8a9d9&stroke=9C52E0" alt="Racha de contribuciones" />
 
-<br/>
+<br/><br/>
 
-<img src="https://ghchart.rshah.org/9C52E0/MariaJoseMontepequeZet" alt="Calendario de contribuciones" width="90%" />
+<img src="https://github-readme-activity-graph-three-ivory.vercel.app/graph?username=MariaJoseMontepequeZet&custom_title=Actividad%20de%20contribuciones%20%28%C3%BAltimos%2031%20d%C3%ADas%29&bg_color=130b2e&color=f1e9ff&title_color=e879f9&line=e879f9&point=4ade80&area=true&area_color=9C52E0&border_color=9C52E0&radius=12" alt="Gráfica de actividad" width="100%" />
 
 </div>
 
