@@ -20,7 +20,6 @@ Estudiante de Ingeniería en Ciencias y Sistemas — USAC · Guatemala 🇬🇹 
 
 Estudiante de Ingeniería en Ciencias y Sistemas (USAC) en formación como desarrolladora full stack, con un enfoque particular en la intersección entre **desarrollo de software** y **seguridad digital**. Combino la construcción de aplicaciones web funcionales con una mentalidad de protección de datos y análisis de amenazas.
 
-- 🎓 **Formación:** Ingeniería en Ciencias y Sistemas — USAC — ![En curso](https://img.shields.io/badge/en%20curso-22c55e?style=flat-square)
 - 🏛️ **Universidad:** Ingeniería en Ciencias y Sistemas — Universidad de San Carlos de Guatemala (2022 – en curso).
 - 🚀 **Bootcamp:** Técnico en Desarrollo de Software (Full Stack) en **Campuslands Guatemala**, programa intensivo presencial desde enero 2026: 1,600 h de programación, 300 h de inglés y 200 h de habilidades blandas — ![En curso](https://img.shields.io/badge/en%20curso-22c55e?style=flat-square)
 - 🎒 **Bachillerato:** Ciencias y Letras con Orientación en Computación — Colegio Mixto Monte Carmelo (2020 – 2021).
