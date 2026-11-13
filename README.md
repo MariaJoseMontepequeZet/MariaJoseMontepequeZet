@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:6D28D9,50:9C52E0,110:22c55e&text=María%20José%20Montepeque&fontColor=ffffff&fontSize=32&desc=Desarrolladora%20Full%20Stack%20Jr.%20%7C%20SOC%20%2F%20Ciberseguridad%20%7C%20Python%20%C2%B7%20Node.js%20%C2%B7%20PostgreSQL%20%C2%B7%20Docker&descSize=15&fontAlignY=38&descAlignY=58" alt="María José Montepeque" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:6D28D9,50:9C52E0,110:22c55e&text=María%20José%20Montepeque%20Zet&fontColor=ffffff&fontSize=32&desc=Desarrolladora%20Full%20Stack%20Jr.%20%7C%20SOC%20%2F%20Ciberseguridad%20%7C%20Python%20%C2%B7%20Node.js%20%C2%B7%20PostgreSQL%20%C2%B7%20Docker&descSize=15&fontAlignY=38&descAlignY=58" alt="María José Montepeque Zet" width="100%" />
 </div>
 
 <div align="center">
@@ -51,7 +51,7 @@ Estudiante de Ingeniería en Ciencias y Sistemas (USAC) en formación como desar
 | Certificación | Institución | Área | Enfoque |
 |---|---|---|---|
 | 🛡️ **Certificación en Ciberseguridad** (Cybersecurity Guardian) | IRSI · SISAP | Ciberseguridad | Monitoreo de seguridad, detección y respuesta a incidentes · 593 h, feb–nov 2025 |
-| 🤖 **Python & AI Development** | Samsung · Fundesteam | Inteligencia Artificial | Desarrollo de soluciones con Python e IA · 200 h, ago–dic 2025 |
+| 🤖 **Samsung Innovation Campus: Inteligencia Artificial** | Samsung · Fundesteam | Inteligencia Artificial | Desarrollo de soluciones con Python e IA · 200 h, ago–dic 2025 |
 | 🔄 **Scrum Foundation Professional Certificate (SFPC™)** | CertiProf | Metodologías ágiles | Obtenida el 23 de octubre de 2026 |
 | 🍃 **MongoDB: ruta Node.js** | MongoDB | Bases de datos NoSQL | ![En curso](https://img.shields.io/badge/en%20curso-22c55e?style=flat-square) Desde el 17 de septiembre de 2026 |
 | 📊 **Manejo de datos SQL y Power BI** | Planeta Virtual 502 | Datos | ![En curso](https://img.shields.io/badge/en%20curso-22c55e?style=flat-square) Desde el 30 de septiembre de 2026 |
@@ -64,7 +64,7 @@ Estudiante de Ingeniería en Ciencias y Sistemas (USAC) en formación como desar
 
 ### 📦 OMS Backend — Sistema de gestión de órdenes
 
-Desarrolladora backend en el equipo de **SoftPlus GT** (proyecto en curso, 2026). Migración de una base de datos legacy a un esquema PostgreSQL con normalización de datos, validaciones y manejo centralizado de errores. Entorno reproducible con Docker Compose y pruebas de cada servicio documentadas en Postman.
+Desarrolladora backend en el equipo de **SoftPlus GT**. Responsable de migrar una base de datos legacy a un esquema PostgreSQL donde realicé una normalización de datos para segmentación de bloques, con validaciones, manejo centralizado de errores. Configuré el entorno reproducible con Docker Compose, documenté las pruebas de cada servicio en Postman.
 
 <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/-Docker%20Compose-2496ED?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" /> ![En desarrollo](https://img.shields.io/badge/en%20desarrollo-22c55e?style=flat-square)
 
@@ -134,7 +134,7 @@ Sistema de gestión hotelera enfocado en la lógica asíncrona de JavaScript: re
 
 <img src="https://img.shields.io/badge/-JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 
-[📂 Repositorio](https://github.com/MariaJoseMontepequeZet/Gestion_hotel)
+[📂 Repositorio](https://github.com/MariaJoseMontepequeZet/gestion_hotel)
 
 </td>
 <td width="50%" valign="top">
