@@ -72,40 +72,40 @@ Estudiante de Ingeniería en Ciencias y Sistemas, desarrolladora de software en 
 <tr>
 <td width="50%" valign="top">
 
-### OMS Backend — Sistema de gestión de órdenes
+### StudentScope MJ — Gestión educativa (SPA)
 
-Desarrolladora backend en el equipo de **SoftPlus GT**. Responsable de migrar una base de datos legacy a un esquema PostgreSQL donde realicé una normalización de datos para segmentación de bloques, con validaciones, manejo centralizado de errores. Configuré el entorno reproducible con Docker Compose, documenté las pruebas de cada servicio en Postman.
+Proyecto en Campuslands Guatemala (mayo 2026). Desarrolladora frontend: SPA sin frameworks con dashboard de KPIs, CRUD de estudiantes con búsqueda multicriterio, filtros y paginación, y un motor de validación con 20 reglas de negocio.
 
-<img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/-Docker%20Compose-2496ED?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" /> ![En desarrollo](https://img.shields.io/badge/en%20desarrollo-22c55e?style=flat-square)
+<img src="https://img.shields.io/badge/-JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/-Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white" />
+
+[Backend](https://github.com/MariaJoseMontepequeZet/studentscope-mj-backend) · [Frontend](https://github.com/MariaJoseMontepequeZet/studentscope-mj-frontend) · [Demo](https://studentscopemj.pamcing.me/)
 
 </td>
 <td width="50%" valign="top">
 
-### KidFit — App móvil de ejercicio para niños
+### SlotSpot MJ — Sistema de parqueo
 
-Proyecto en equipo de 10 desarrolladores organizado en 4 células (2026). Desarrolladora en la célula de **Visión y cámara**: integración de la cámara y MediaPipe para el seguimiento de los ejercicios, en una app que funciona en Android e iOS.
+Proyecto en Campuslands Guatemala (mayo 2026). Desarrolladora frontend: componentes reutilizables con **Web Components y Shadow DOM** para la gestión de espacios, registro de vehículos y cálculo de tarifas, con control de versiones en Git y flujo basado en pull requests.
 
-<img src="https://img.shields.io/badge/-React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/-MediaPipe-0097A7?style=flat-square&logo=mediapipe&logoColor=white" /> <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" /> ![En desarrollo](https://img.shields.io/badge/en%20desarrollo-22c55e?style=flat-square)
+<img src="https://img.shields.io/badge/-Web%20Components-29ABE2?style=flat-square&logo=webcomponentsdotorg&logoColor=white" /> <img src="https://img.shields.io/badge/-JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/-Git-F05033?style=flat-square&logo=git&logoColor=white" />
+
+[Backend](https://github.com/MariaJoseMontepequeZet/slotspot-mj) · [Frontend](https://github.com/MariaJoseMontepequeZet/slotspot-mj-frontend) · [Demo](https://slotspotmj.pamcing.me/)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### TutorBot — Bot de tutorías con IA
+### Portafolio personal
 
-Proyecto en Campuslands Guatemala (julio 2026). Desarrolladora principal: flujo de automatización de más de 65 nodos, integración de la API de Telegram con Google Sheets, gestión de errores con reintentos automáticos y despliegue en Docker con entorno reproducible.
+Sitio web personal con mi perfil profesional, proyectos, habilidades y formas de contacto, publicado en mi propio dominio. Diseño propio, adaptado a dispositivos móviles.
 
-<img src="https://img.shields.io/badge/-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" /> <img src="https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" /> <img src="https://img.shields.io/badge/-Google%20Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white" /> <img src="https://img.shields.io/badge/-Docker-0db7ed?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/-JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+
+[Demo](https://portafoliomariajosemontepequezet.pamcing.me/)
 
 </td>
 <td width="50%" valign="top">
-
-### DockerPulse — Mantenimiento predictivo con IA
-
-**1.er lugar, Hackathon Samsung Innovation Campus 2025** (Centroamérica y el Caribe), equipo de 4 personas. Frontend e integración: panel de monitoreo en tiempo real de contenedores Docker con visualización de recursos y reinicio manual; integración entre frontend, backend y APIs de comunicación.
-
-<img src="https://img.shields.io/badge/-Docker-0db7ed?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/-IA-FF6F00?style=flat-square" /> <img src="https://img.shields.io/badge/-Hackathon-22c55e?style=flat-square" />
 
 </td>
 </tr>
