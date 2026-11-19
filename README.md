@@ -4,7 +4,7 @@
 
 <div align="center">
 
-Estudiante de Ingeniería en Ciencias y Sistemas — USAC · Guatemala 🇬🇹 · Remoto / Híbrido
+Estudiante de Ingeniería en Ciencias y Sistemas — USAC · Guatemala · Remoto / Híbrido
 
 [![GitHub](https://img.shields.io/badge/GitHub-MariaJoseMontepequeZet-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MariaJoseMontepequeZet)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mariamontepeque-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariamontepeque/)
@@ -16,23 +16,23 @@ Estudiante de Ingeniería en Ciencias y Sistemas — USAC · Guatemala 🇬🇹 
 
 </div>
 
-## 👩‍💻 Sobre mí
+## Sobre mí
 
 Estudiante de Ingeniería en Ciencias y Sistemas, desarrolladora de software en formación. Soy paciente, independiente y firme, mantengo la calma bajo presión, trabajo con orden y escucho otras ideas sin perder mi criterio. Me mueve la curiosidad por entender cómo funcionan los sistemas y el compromiso en hacer las cosas bien.
 
-- 🏛️ **Universidad:** Ingeniería en Ciencias y Sistemas — Universidad de San Carlos de Guatemala (2022 – en curso).
-- 🚀 **Bootcamp:** Técnico en Desarrollo de Software (Full Stack) en **Campuslands Guatemala**, programa intensivo presencial desde enero 2026: 1,600 h de programación, 300 h de inglés y 200 h de habilidades blandas — ![En curso](https://img.shields.io/badge/en%20curso-22c55e?style=flat-square)
-- 🎒 **Bachillerato:** Ciencias y Letras con Orientación en Computación — Colegio Mixto Monte Carmelo (2020 – 2021).
-- 🏢 **Experiencia:** desarrolladora backend en el equipo de **SoftPlus GT** (*OMS Backend*) — ![En curso](https://img.shields.io/badge/en%20curso-22c55e?style=flat-square)
-- 🏆 **Hackathon:** 1.er lugar en el Hackathon **Samsung Innovation Campus 2025** (Centroamérica y el Caribe) con *DockerPulse*.
-- 🎯 **Objetivo:** crecer en backend y ciberseguridad dentro de un equipo que apueste por la calidad y la mejora continua.
-- 🗣️ **Idiomas:** Español (nativo) · Inglés (B1 intermedio, en formación).
-- 🛡️ **Ciberseguridad:** Certificada en SOC (Security Operations Center) por IRSI · SISAP — monitoreo y respuesta a incidentes.
-- 🤖 **IA & Python:** Certificada por Samsung en desarrollo de soluciones con Python e Inteligencia Artificial.
-- 🌐 **Desarrollo Web:** Frontend, backend, bases de datos SQL/NoSQL y automatización de flujos.
-- 📚 **Fuera del código:** gimnasia, cubos Rubik y lectura de romance y fantasía — actividades que combinan lo físico, lo mental y lo creativo.
+- **Universidad:** Ingeniería en Ciencias y Sistemas — Universidad de San Carlos de Guatemala (2022 – en curso).
+- **Bootcamp:** Técnico en Desarrollo de Software (Full Stack) en **Campuslands Guatemala**, programa intensivo presencial desde enero 2026: 1,600 h de programación, 300 h de inglés y 200 h de habilidades blandas — ![En curso](https://img.shields.io/badge/en%20curso-22c55e?style=flat-square)
+- **Bachillerato:** Ciencias y Letras con Orientación en Computación — Colegio Mixto Monte Carmelo (2020 – 2021).
+- **Experiencia:** desarrolladora backend en el equipo de **SoftPlus GT** (*OMS Backend*) — ![En curso](https://img.shields.io/badge/en%20curso-22c55e?style=flat-square)
+- **Hackathon:** 1.er lugar en el Hackathon **Samsung Innovation Campus 2025** (Centroamérica y el Caribe) con *DockerPulse*.
+- **Objetivo:** crecer en backend y ciberseguridad dentro de un equipo que apueste por la calidad y la mejora continua.
+- **Idiomas:** Español (nativo) · Inglés (B1 intermedio, en formación).
+- **Ciberseguridad:** Certificada en SOC (Security Operations Center) por IRSI · SISAP — monitoreo y respuesta a incidentes.
+- **IA & Python:** Certificada por Samsung en desarrollo de soluciones con Python e Inteligencia Artificial.
+- **Desarrollo Web:** Frontend, backend, bases de datos SQL/NoSQL y automatización de flujos.
+- **Fuera del código:** gimnasia, cubos Rubik y lectura de romance y fantasía — actividades que combinan lo físico, lo mental y lo creativo.
 
-## 🧰 Stack técnico
+## Stack técnico
 
 **Lenguajes**
 
@@ -66,23 +66,13 @@ Estudiante de Ingeniería en Ciencias y Sistemas, desarrolladora de software en 
 
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /> <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSIjYmxhY2siIHJvbGU9ImltZyIgdmlld0JveD0iMCAwIDI0IDI0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0xMCAxMmExIDEgMCAwIDEgMSAxdjExSDRhMSAxIDAgMCAxLTEtMVYxM2ExIDEgMCAwIDEgMS0xaDZabS0yLS41VjdhMSAxIDAgMCAxIDEtMWg2YTEgMSAwIDAgMSAxIDF2MTdoLTQuNVYxM2ExLjUgMS41IDAgMCAwLTEuNS0xLjVIOFptNS02VjFhMSAxIDAgMCAxIDEtMWg2YTEgMSAwIDAgMSAxIDF2MjJhMSAxIDAgMCAxLTEgMWgtMy41VjdBMS41IDEuNSAwIDAgMCAxNSA1LjVoLTJaIi8%2BPC9zdmc%2B" alt="Power BI" /> <img src="https://img.shields.io/badge/WSL-0078D4?style=for-the-badge&logo=linux&logoColor=white" alt="WSL" /> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" /> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSIjd2hpdGUiIHJvbGU9ImltZyIgdmlld0JveD0iMCAwIDI0IDI0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0yMy4xNSAyLjU4N0wxOC4yMS4yMWExLjQ5NCAxLjQ5NCAwIDAgMC0xLjcwNS4yOWwtOS40NiA4LjYzLTQuMTItMy4xMjhhLjk5OS45OTkgMCAwIDAtMS4yNzYuMDU3TC4zMjcgNy4yNjFBMSAxIDAgMCAwIC4zMjYgOC43NEwzLjg5OSAxMiAuMzI2IDE1LjI2YTEgMSAwIDAgMCAuMDAxIDEuNDc5TDEuNjUgMTcuOTRhLjk5OS45OTkgMCAwIDAgMS4yNzYuMDU3bDQuMTItMy4xMjggOS40NiA4LjYzYTEuNDkyIDEuNDkyIDAgMCAwIDEuNzA0LjI5bDQuOTQyLTIuMzc3QTEuNSAxLjUgMCAwIDAgMjQgMjAuMDZWMy45MzlhMS41IDEuNSAwIDAgMC0uODUtMS4zNTJ6bS01LjE0NiAxNC44NjFMMTAuODI2IDEybDcuMTc4LTUuNDQ4djEwLjg5NnoiLz48L3N2Zz4%3D" alt="VS Code" />
 
-## 🎓 Certificaciones
-
-| Certificación | Institución | Área | Enfoque |
-|---|---|---|---|
-| 🛡️ **Certificación en Ciberseguridad** (Cybersecurity Guardian) | IRSI · SISAP | Ciberseguridad | Monitoreo de seguridad, detección y respuesta a incidentes · 593 h, feb–nov 2025 |
-| 🤖 **Samsung Innovation Campus: Inteligencia Artificial** | Samsung · Fundesteam | Inteligencia Artificial | Desarrollo de soluciones con Python e IA · 200 h, ago–dic 2025 |
-| 🔄 **Scrum Foundation Professional Certificate (SFPC™)** | CertiProf | Metodologías ágiles | Obtenida el 23 de octubre de 2026 · ID 117244431 |
-| 🍃 **MongoDB: ruta Node.js** | MongoDB | Bases de datos NoSQL | ![En curso](https://img.shields.io/badge/en%20curso-22c55e?style=flat-square) Desde el 17 de septiembre de 2026 |
-| 📊 **Manejo de datos SQL y Power BI** | Planeta Virtual 502 | Datos | ![En curso](https://img.shields.io/badge/en%20curso-22c55e?style=flat-square) Desde el 30 de septiembre de 2026 |
-
-## 🚀 Proyectos destacados
+## Proyectos destacados
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### 📦 OMS Backend — Sistema de gestión de órdenes
+### OMS Backend — Sistema de gestión de órdenes
 
 Desarrolladora backend en el equipo de **SoftPlus GT**. Responsable de migrar una base de datos legacy a un esquema PostgreSQL donde realicé una normalización de datos para segmentación de bloques, con validaciones, manejo centralizado de errores. Configuré el entorno reproducible con Docker Compose, documenté las pruebas de cada servicio en Postman.
 
@@ -91,7 +81,7 @@ Desarrolladora backend en el equipo de **SoftPlus GT**. Responsable de migrar un
 </td>
 <td width="50%" valign="top">
 
-### 🏋️ KidFit — App móvil de ejercicio para niños
+### KidFit — App móvil de ejercicio para niños
 
 Proyecto en equipo de 10 desarrolladores organizado en 4 células (2026). Desarrolladora en la célula de **Visión y cámara**: integración de la cámara y MediaPipe para el seguimiento de los ejercicios, en una app que funciona en Android e iOS.
 
@@ -102,7 +92,7 @@ Proyecto en equipo de 10 desarrolladores organizado en 4 células (2026). Desarr
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 TutorBot — Bot de tutorías con IA
+### TutorBot — Bot de tutorías con IA
 
 Proyecto en Campuslands Guatemala (julio 2026). Desarrolladora principal: flujo de automatización de más de 65 nodos, integración de la API de Telegram con Google Sheets, gestión de errores con reintentos automáticos y despliegue en Docker con entorno reproducible.
 
@@ -111,92 +101,17 @@ Proyecto en Campuslands Guatemala (julio 2026). Desarrolladora principal: flujo 
 </td>
 <td width="50%" valign="top">
 
-### 🧠 Sistema Experto — Diagnóstico de PC
+### DockerPulse — Mantenimiento predictivo con IA
 
-Sistema experto de diagnóstico de PC basado en reglas, con 21 diagnósticos. Motor de inferencia con encadenamiento hacia adelante y hacia atrás, niveles de confianza y explicación del razonamiento; exporta la base de conocimiento a grafo JSON. El motor no tiene dependencias, la interfaz web usa Streamlit y 42 casos de referencia se verifican en cada cambio con integración continua.
-
-<img src="https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" /> <img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" /> <img src="https://img.shields.io/badge/-IA-FF6F00?style=flat-square" />
-
-[📂 Repositorio](https://github.com/MariaJoseMontepequeZet/sistema_experto_maria-montepeque) · [🌐 Demo](https://diagnostico-pc-sistema-experto.streamlit.app/)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🎓 StudentScope MJ — Gestión educativa (SPA)
-
-Proyecto en Campuslands Guatemala (mayo 2026). Desarrolladora frontend: SPA sin frameworks con dashboard de KPIs, CRUD de estudiantes con búsqueda multicriterio, filtros y paginación, y un motor de validación con 20 reglas de negocio.
-
-<img src="https://img.shields.io/badge/-JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/-Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white" />
-
-[📂 Backend](https://github.com/MariaJoseMontepequeZet/studentscope-mj-backend) · [📂 Frontend](https://github.com/MariaJoseMontepequeZet/studentscope-mj-frontend) · [🌐 Demo](https://studentscopemj.pamcing.me/)
-
-</td>
-<td width="50%" valign="top">
-
-### 🅿️ SlotSpot MJ — Sistema de parqueo
-
-Proyecto en Campuslands Guatemala (mayo 2026). Desarrolladora frontend: componentes reutilizables con **Web Components y Shadow DOM** para la gestión de espacios, registro de vehículos y cálculo de tarifas, con control de versiones en Git y flujo basado en pull requests.
-
-<img src="https://img.shields.io/badge/-Web%20Components-29ABE2?style=flat-square&logo=webcomponentsdotorg&logoColor=white" /> <img src="https://img.shields.io/badge/-JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/-Git-F05033?style=flat-square&logo=git&logoColor=white" />
-
-[📂 Backend](https://github.com/MariaJoseMontepequeZet/slotspot-mj) · [📂 Frontend](https://github.com/MariaJoseMontepequeZet/slotspot-mj-frontend) · [🌐 Demo](https://slotspotmj.pamcing.me/)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🏨 Gestión de Hotel
-
-Sistema de gestión hotelera enfocado en la lógica asíncrona de JavaScript: reservas, disponibilidad de habitaciones y flujos con callbacks y `setTimeout` para simular operaciones de servidor.
-
-<img src="https://img.shields.io/badge/-JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-
-[📂 Repositorio](https://github.com/MariaJoseMontepequeZet/gestion_hotel)
-
-</td>
-<td width="50%" valign="top">
-
-### 🐳 DockerPulse — Mantenimiento predictivo con IA
-
-🏆 **1.er lugar, Hackathon Samsung Innovation Campus 2025** (Centroamérica y el Caribe), equipo de 4 personas. Frontend e integración: panel de monitoreo en tiempo real de contenedores Docker con visualización de recursos y reinicio manual; integración entre frontend, backend y APIs de comunicación.
+**1.er lugar, Hackathon Samsung Innovation Campus 2025** (Centroamérica y el Caribe), equipo de 4 personas. Frontend e integración: panel de monitoreo en tiempo real de contenedores Docker con visualización de recursos y reinicio manual; integración entre frontend, backend y APIs de comunicación.
 
 <img src="https://img.shields.io/badge/-Docker-0db7ed?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/-IA-FF6F00?style=flat-square" /> <img src="https://img.shields.io/badge/-Hackathon-22c55e?style=flat-square" />
 
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
-
-### 💼 Portafolio personal
-
-Sitio web personal con mi perfil profesional, proyectos, habilidades y formas de contacto, publicado en mi propio dominio. Diseño propio, adaptado a dispositivos móviles.
-
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/-JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" />
-
-[🌐 Demo](https://portafoliomariajosemontepequezet.pamcing.me/)
-
-</td>
-<td width="50%" valign="top">
-
-</td>
-</tr>
 </table>
 
-## 📚 Coursework y ejercicios técnicos
-
-Ejercicios y proyectos realizados durante el bootcamp Full Stack de Campuslands:
-
-- **SQL:** CineMax (SQLite, 4 tablas, 10 consultas DQL, diagrama ER en Graphviz) y Campus Shop (MySQL, DDL/DML/DQL).
-- **NoSQL:** estudio de modelos Key-Value, Documento, Columna y Grafo con casos de uso y framework de decisión.
-- **JavaScript / TypeScript:** 15 ejercicios de fundamentos, debugging de APIs REST con Node.js y proyecto de inventario de shooter táctico.
-- **Normalización de bases de datos:** ejercicio de citas hospitalarias (1FN–3FN).
-- **DevOps:** catálogo de stacks con Docker Compose y configuración local de n8n, PostgreSQL y Supabase.
-- **Arquitectura:** visualización de una arquitectura de microservicios políglota (TypeScript/NestJS, Go/Gin, Python/FastAPI) para el proyecto Quetxal TV.
-
-## 📈 Actividad en GitHub
+## Actividad en GitHub
 
 <div align="center">
 <table>
@@ -218,7 +133,7 @@ Ejercicios y proyectos realizados durante el bootcamp Full Stack de Campuslands:
 
 </div>
 
-## ⚙️ Cómo trabajo
+## Cómo trabajo
 
 - Analizo requerimientos antes de desarrollar y evito cambios estructurales no solicitados.
 - Prefiero entregar código limpio, completo y bien organizado por archivo.
@@ -226,7 +141,7 @@ Ejercicios y proyectos realizados durante el bootcamp Full Stack de Campuslands:
 - Uso Git/GitHub con flujo basado en forks, ramas y commits descriptivos.
 - Valido y pruebo mis cambios antes de entregarlos.
 
-### 🤝 Habilidades adaptativas
+### Habilidades adaptativas
 
 - **Paciencia:** constancia ante retos exigentes.
 - **Autonomía:** criterio propio con base argumentada.
@@ -235,7 +150,7 @@ Ejercicios y proyectos realizados durante el bootcamp Full Stack de Campuslands:
 - **Colaboración:** búsqueda de acuerdos en equipo.
 - **Comunicación asertiva:** respetuosa.
 
-## 📫 Contáctame
+## Contáctame
 
 <div align="center">
 
