@@ -96,18 +96,6 @@ Proyecto en Campuslands Guatemala (mayo 2026). Desarrolladora frontend: componen
 <tr>
 <td width="50%" valign="top">
 
-### Portafolio personal
-
-Sitio web personal con mi perfil profesional, proyectos, habilidades y formas de contacto, publicado en mi propio dominio. Diseño propio, adaptado a dispositivos móviles.
-
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/-JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" />
-
-[Demo](https://portafoliomariajosemontepequezet.pamcing.me/)
-
-</td>
-<td width="50%" valign="top">
-
-</td>
 </tr>
 </table>
 
