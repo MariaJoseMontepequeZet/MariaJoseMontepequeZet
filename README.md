@@ -18,7 +18,13 @@ Estudiante de Ingeniería en Ciencias y Sistemas — USAC · Guatemala · Remoto
 
 ## Sobre mí
 
-Estudiante de Ingeniería en Ciencias y Sistemas, desarrolladora de software en formación. Soy paciente, independiente y firme, mantengo la calma bajo presión, trabajo con orden y escucho otras ideas sin perder mi criterio. Me mueve la curiosidad por entender cómo funcionan los sistemas y el compromiso en hacer las cosas bien.
+<div align="justify">
+
+Estudiante de Ingeniería en Ciencias y Sistemas, desarrolladora de software en formación. Soy paciente, independiente y firme; mantengo la calma bajo presión, trabajo con orden y escucho otras ideas sin perder mi criterio. Me mueve la curiosidad por entender cómo funcionan los sistemas y el compromiso en hacer las cosas bien.
+
+</div>
+
+<div align="justify">
 
 - **Universidad:** Ingeniería en Ciencias y Sistemas — Universidad de San Carlos de Guatemala (2022 – en curso).
 - **Bootcamp:** Técnico en Desarrollo de Software (Full Stack) en **Campuslands Guatemala**, programa intensivo presencial desde enero 2026: 1,600 h de programación, 300 h de inglés y 200 h de habilidades blandas — ![En curso](https://img.shields.io/badge/en%20curso-22c55e?style=flat-square)
@@ -31,6 +37,8 @@ Estudiante de Ingeniería en Ciencias y Sistemas, desarrolladora de software en 
 - **IA & Python:** Certificada por Samsung en desarrollo de soluciones con Python e Inteligencia Artificial.
 - **Desarrollo Web:** Frontend, backend, bases de datos SQL/NoSQL y automatización de flujos.
 - **Fuera del código:** gimnasia, cubos Rubik y lectura de romance y fantasía — actividades que combinan lo físico, lo mental y lo creativo.
+
+</div>
 
 ## Stack técnico
 
@@ -74,7 +82,11 @@ Estudiante de Ingeniería en Ciencias y Sistemas, desarrolladora de software en 
 
 ### StudentScope MJ — Gestión educativa (SPA)
 
+<div align="justify">
+
 Proyecto en Campuslands Guatemala (mayo 2026). Desarrolladora frontend: SPA sin frameworks con dashboard de KPIs, CRUD de estudiantes con búsqueda multicriterio, filtros y paginación, y un motor de validación con 20 reglas de negocio.
+
+</div>
 
 <img src="https://img.shields.io/badge/-JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/-Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white" />
 
@@ -85,17 +97,17 @@ Proyecto en Campuslands Guatemala (mayo 2026). Desarrolladora frontend: SPA sin 
 
 ### SlotSpot MJ — Sistema de parqueo
 
+<div align="justify">
+
 Proyecto en Campuslands Guatemala (mayo 2026). Desarrolladora frontend: componentes reutilizables con **Web Components y Shadow DOM** para la gestión de espacios, registro de vehículos y cálculo de tarifas, con control de versiones en Git y flujo basado en pull requests.
+
+</div>
 
 <img src="https://img.shields.io/badge/-Web%20Components-29ABE2?style=flat-square&logo=webcomponentsdotorg&logoColor=white" /> <img src="https://img.shields.io/badge/-JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/-Git-F05033?style=flat-square&logo=git&logoColor=white" />
 
 [Backend](https://github.com/MariaJoseMontepequeZet/slotspot-mj) · [Frontend](https://github.com/MariaJoseMontepequeZet/slotspot-mj-frontend) · [Demo](https://slotspotmj.pamcing.me/)
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 </tr>
 </table>
 
@@ -123,13 +135,19 @@ Proyecto en Campuslands Guatemala (mayo 2026). Desarrolladora frontend: componen
 
 ## Cómo trabajo
 
+<div align="justify">
+
 - Analizo requerimientos antes de desarrollar y evito cambios estructurales no solicitados.
 - Prefiero entregar código limpio, completo y bien organizado por archivo.
 - Documento decisiones técnicas e instalación en cada proyecto.
 - Uso Git/GitHub con flujo basado en forks, ramas y commits descriptivos.
 - Valido y pruebo mis cambios antes de entregarlos.
 
+</div>
+
 ### Habilidades adaptativas
+
+<div align="justify">
 
 - **Paciencia:** constancia ante retos exigentes.
 - **Autonomía:** criterio propio con base argumentada.
@@ -137,6 +155,8 @@ Proyecto en Campuslands Guatemala (mayo 2026). Desarrolladora frontend: componen
 - **Pensamiento analítico:** identificación de oportunidades de mejora.
 - **Colaboración:** búsqueda de acuerdos en equipo.
 - **Comunicación asertiva:** respetuosa.
+
+</div>
 
 ## Contáctame
 
